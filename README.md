@@ -9,7 +9,7 @@
 
 2. Navigate to the project directory:
   ```shell
-  cd go-fiber-authentication
+  cd go-jwt-auth
   ```
 3. Install the dependencies:
   ```shell
